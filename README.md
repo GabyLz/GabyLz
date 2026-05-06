@@ -98,9 +98,3 @@ Este README se muestra en tu perfil de GitHub 😄
   <sub>Reconocimientos a mi actividad y crecimiento en la comunidad open source 🚀</sub>
 </p>
 
-<!-- Contacto rápido -->
-<p align="center">
-  <a href="mailto:glzanabriayr@unitru.edu.pe">
-    <img alt="Email" src="https://img.shields.io/badge/Email-glzanabriayr@unitru.edu.pe-blue?style=flat-square&logo=gmail">
-  </a>
-</p>
