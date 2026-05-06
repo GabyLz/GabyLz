@@ -18,34 +18,37 @@ Este README se muestra en tu perfil de GitHub 😄
 
 <p align="center">
 
-<a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral">
-  <img src="https://img.shields.io/badge/Egresados%20y%20Ofertas%20Laborales-blue?style=for-the-badge&logo=gradle&logoColor=white" />
-</a>
-<sub>Vínculo entre egresados, universidades y empresas.</sub>
+  <a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral">
+    <img src="https://img.shields.io/badge/Egresados%20y%20Ofertas%20Laborales-blue?style=for-the-badge&logo=gradle&logoColor=white" />
+  </a>
+  <br>
+  <sub>Vínculo entre egresados, universidades y empresas.</sub>
 
-<br><br>
+  <br><br>
 
-<a href="https://github.com/GabyLz/Carrito-Compras">
-  <img src="https://img.shields.io/badge/Carrito%20de%20Compras-orange?style=for-the-badge&logo=typescript&logoColor=white" />
-</a>
-<sub>App de e-commerce full-stack.</sub>
+  <a href="https://github.com/GabyLz/Carrito-Compras">
+    <img src="https://img.shields.io/badge/Carrito%20de%20Compras-orange?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <br>
+  <sub>App de e-commerce full-stack.</sub>
 
-<br><br>
+  <br><br>
 
-<a href="https://github.com/GabyLz/Machine-Learning">
-  <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</a>
-<sub>Análisis y predicción con IA.</sub>
+  <a href="https://github.com/GabyLz/Machine-Learning">
+    <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  </a>
+  <br>
+  <sub>Análisis y predicción con IA.</sub>
 
-<br><br>
+  <br><br>
 
-<a href="https://github.com/GabyLz/Open_Cv">
-  <img src="https://img.shields.io/badge/OpenCV-purple?style=for-the-badge&logo=opencv&logoColor=white" />
-</a>
-<sub>Proyectos de visión computacional.</sub>
+  <a href="https://github.com/GabyLz/Open_Cv">
+    <img src="https://img.shields.io/badge/OpenCV-purple?style=for-the-badge&logo=opencv&logoColor=white" />
+  </a>
+  <br>
+  <sub>Proyectos de visión computacional.</sub>
 
 </p>
-
 ---
 
 #### 🛠 Stack tecnológico
