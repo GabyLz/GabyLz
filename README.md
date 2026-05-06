@@ -131,12 +131,9 @@ Markdown
 <h3>📊 Estadísticas de GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabyLz&layout=compact&theme=gotham&langs_count=8&hide_title=true" alt="Top Langs" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabyLz&layout=compact&theme=gotham" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabyLz&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GabyLz&theme=gotham" alt="GitHub Streak" />
 </p>
-
-<table align="center">
-<tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=GabyLz&show_icons=true&theme=gotham" alt="github stats"/></td>
-  <td><img src="http://github-readme-streak-stats.herokuapp.com?user=GabyLz&theme=gotham" alt="streak stats"/></td>
-</tr>
-</table>
