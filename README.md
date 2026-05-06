@@ -16,39 +16,47 @@ Este README se muestra en tu perfil de GitHub 😄
 
 #### 🚀 Proyectos Destacados
 
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral">
-    <img src="https://img.shields.io/badge/👨‍🎓%20Egresados%20y%20Ofertas-Universidad%20y%20Empleo-blue?style=for-the-badge&logo=gradle&logoColor=white" />
+  <a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/👨‍🎓%20Egresados%20y%20Ofertas-blue?style=for-the-badge&logo=gradle&logoColor=white" />
+    <br>
+    <b>Sistema de Egresados y Oferta Laboral</b>
     <br>
     <sub>Plataforma para conectar egresados, universidades y empresas.</sub>
   </a>
-  
+
   <br><br>
 
-  <a href="https://github.com/GabyLz/Carrito-Compras">
-    <img src="https://img.shields.io/badge/🛒%20Carrito%20de%20Compras-Ecommerce-orange?style=for-the-badge&logo=typescript&logoColor=white" />
+  <a href="https://github.com/GabyLz/Carrito-Compras" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/🛒%20Carrito%20de%20Compras-orange?style=for-the-badge&logo=typescript&logoColor=white" />
     <br>
-    <sub>Aplicación de e-commerce full-stack (TypeScript, PLpgSQL).</sub>
-  </a>
-  
-  <br><br>
-
-  <a href="https://github.com/GabyLz/Machine-Learning">
-    <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-IA-red?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <b>Carrito de Compras</b>
     <br>
-    <sub>Modelos de análisis y predicción basados en IA.</sub>
+    <sub>App de e-commerce full-stack (TypeScript, PLpgSQL).</sub>
   </a>
-  
+
   <br><br>
 
-  <a href="https://github.com/GabyLz/Open_Cv">
-    <img src="https://img.shields.io/badge/🖼️%20OpenCV-Visión%20Computacional-purple?style=for-the-badge&logo=opencv&logoColor=white" />
+  <a href="https://github.com/GabyLz/Machine-Learning" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-red?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <br>
+    <b>Machine Learning</b>
+    <br>
+    <sub>Modelos de análisis y predicción con IA.</sub>
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/GabyLz/Open_Cv" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/🖼️%20OpenCV-purple?style=for-the-badge&logo=opencv&logoColor=white" />
+    <br>
+    <b>OpenCV</b>
     <br>
     <sub>Procesamiento de imágenes y visión computacional en Python.</sub>
   </a>
 
-</p>
+</div>
 ---
 
 #### 🛠 Stack tecnológico
