@@ -15,48 +15,42 @@ Este README se muestra en tu perfil de GitHub 😄
 ---
 
 #### 🚀 Proyectos Destacados
+Copilot said: ¡Por supuesto, Gaby! Aquí tienes la
+¡Por supuesto, Gaby!
+Aquí tienes la sección de Proyectos Destacados adaptada exactamente al estilo visual de tus otras secciones (“logros” y “stack”), usando badges alineados, títulos en negrita, descripciones cortas debajo y todo centrado, creando así un bloque homogéneo y muy profesional — ideal para tu perfil de GitHub.
 
-<div align="center">
+Markdown
+#### 🚀 Proyectos Destacados
 
-  <a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/👨‍🎓%20Egresados%20y%20Ofertas-blue?style=for-the-badge&logo=gradle&logoColor=white" />
-    <br>
-    <b>Sistema de Egresados y Oferta Laboral</b>
-    <br>
+<p align="center">
+  <!-- Proyecto 1 -->
+  <a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral">
+    <img src="https://img.shields.io/badge/Egresados%20y%20Ofertas-blue?style=for-the-badge&logo=gradle&logoColor=white" /><br>
+    <b>Sistema de Egresados y Oferta Laboral</b><br>
     <sub>Plataforma para conectar egresados, universidades y empresas.</sub>
   </a>
-
   <br><br>
-
-  <a href="https://github.com/GabyLz/Carrito-Compras" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/🛒%20Carrito%20de%20Compras-orange?style=for-the-badge&logo=typescript&logoColor=white" />
-    <br>
-    <b>Carrito de Compras</b>
-    <br>
+  <!-- Proyecto 2 -->
+  <a href="https://github.com/GabyLz/Carrito-Compras">
+    <img src="https://img.shields.io/badge/Carrito%20de%20Compras-orange?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+    <b>Carrito de Compras</b><br>
     <sub>App de e-commerce full-stack (TypeScript, PLpgSQL).</sub>
   </a>
-
   <br><br>
-
-  <a href="https://github.com/GabyLz/Machine-Learning" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-red?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-    <br>
-    <b>Machine Learning</b>
-    <br>
+  <!-- Proyecto 3 -->
+  <a href="https://github.com/GabyLz/Machine-Learning">
+    <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br>
+    <b>Machine Learning</b><br>
     <sub>Modelos de análisis y predicción con IA.</sub>
   </a>
-
   <br><br>
-
-  <a href="https://github.com/GabyLz/Open_Cv" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/🖼️%20OpenCV-purple?style=for-the-badge&logo=opencv&logoColor=white" />
-    <br>
-    <b>OpenCV</b>
-    <br>
+  <!-- Proyecto 4 -->
+  <a href="https://github.com/GabyLz/Open_Cv">
+    <img src="https://img.shields.io/badge/OpenCV-purple?style=for-the-badge&logo=opencv&logoColor=white" /><br>
+    <b>OpenCV</b><br>
     <sub>Procesamiento de imágenes y visión computacional en Python.</sub>
   </a>
-
-</div>
+</p>
 ---
 
 #### 🛠 Stack tecnológico
