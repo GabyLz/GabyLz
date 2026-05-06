@@ -17,83 +17,89 @@ Puedes personalizarlo como desees.
 
 ---
 
+Copilot said: ¡Por supuesto! Aquí tienes una versión más
+¡Por supuesto! Aquí tienes una versión más estética y llamativa de tus proyectos destacados, usando “project cards” al estilo markdown con algunos estilos básicos e íconos para hacerlo visual y atractivo, sin perder compatibilidad con el README de GitHub.
+
+Markdown
 <h3>🚀 Proyectos Destacados</h3>
 
-<table style="width:100%">
-  <tr>
-    <td>
-      <b><a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral">Sistema de Egresados y Oferta Laboral</a></b><br>
-      Plataforma para el vínculo entre egresados, universidades y empresas.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/GabyLz/Carrito-Compras">Carrito-Compras</a></b><br>
-      Aplicación de e-commerce full-stack con TypeScript y PLpgSQL.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/GabyLz/Simulador-de-inversiones-y-bonos">Simulador de inversiones y bonos</a></b><br>
-      Herramienta educativa de simulación financiera.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/GabyLz/Machine-Learning">Machine-Learning</a></b><br>
-      Implementaciones de Machine Learning para análisis de datos y predicción.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/GabyLz/Open_Cv">Open_Cv</a></b><br>
-      Proyectos de visión computacional y procesamiento de imágenes con Python.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/GabyLz/Sistemas_de_Nota">Sistemas_de_Nota</a></b><br>
-      Gestión de calificaciones escolares.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/marck-h-cmd/Eduka">Eduka (colaboración)</a></b><br>
-      Plataforma web educativa integral.
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+<a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral" target="_blank">
+  <img src="https://img.shields.io/badge/Sistema%20de%20Egresados%20y%20Oferta%20Laboral-Universidad%20y%20Empleo-blue?style=for-the-badge&logo=gradle&logoColor=white" alt="Sistema de Egresados y Oferta Laboral"/>
+</a>  
+<br>
+<sub>Plataforma para el vínculo entre egresados, universidades y empresas.</sub>
+
+<hr>
+
+<a href="https://github.com/GabyLz/Carrito-Compras" target="_blank">
+  <img src="https://img.shields.io/badge/Carrito%20de%20Compras-Ecommerce-orange?style=for-the-badge&logo=typescript&logoColor=white" alt="Carrito de Compras"/>
+</a>
+<br>
+<sub>Aplicación de e-commerce full-stack con TypeScript y PLpgSQL.</sub>
+
+<hr>
+
+<a href="https://github.com/GabyLz/Simulador-de-inversiones-y-bonos" target="_blank">
+  <img src="https://img.shields.io/badge/Simulador%20de%20Inversiones%20y%20Bonos-Finanzas-green?style=for-the-badge&logo=python&logoColor=white" alt="Simulador de Inversiones y Bonos"/>
+</a>
+<br>
+<sub>Herramienta educativa de simulación financiera.</sub>
+
+<hr>
+
+<a href="https://github.com/GabyLz/Machine-Learning" target="_blank">
+  <img src="https://img.shields.io/badge/Machine%20Learning-IA-red?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+</a>
+<br>
+<sub>Implementaciones de Machine Learning para análisis de datos y predicción.</sub>
+
+<hr>
+
+<a href="https://github.com/GabyLz/Open_Cv" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20CV-Visión%20Computacional-purple?style=for-the-badge&logo=opencv&logoColor=white" alt="Open CV"/>
+</a>
+<br>
+<sub>Proyectos de visión computacional y procesamiento de imágenes con Python.</sub>
+
+<hr>
+
+<a href="https://github.com/GabyLz/Sistemas_de_Nota" target="_blank">
+  <img src="https://img.shields.io/badge/Sistemas%20de%20Nota-Educación-lightgrey?style=for-the-badge&logo=php&logoColor=white" alt="Sistemas de Nota"/>
+</a>
+<br>
+<sub>Gestión de calificaciones escolares.</sub>
+
+<hr>
+
+<a href="https://github.com/marck-h-cmd/Eduka" target="_blank">
+  <img src="https://img.shields.io/badge/Eduka%20(colaboración)-Plataforma%20Educativa-9cf?style=for-the-badge&logo=laravel&logoColor=white" alt="Eduka"/>
+</a>
+<br>
+<sub>Plataforma web educativa integral.</sub>
+
+</p>
 
 ---
 
 <h3>🛠 Stack tecnológico</h3>
 
 <p>
-  <a href="https://www.scala-lang.org/">
-    <img alt="Scala" src="https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala" />
-  </a>
-  <a href="https://www.java.com/">
-    <img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java" />
-  </a>
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img alt="SQL" src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql" />
-  </a>
-</p>
-
-<p>
+  <!-- Lenguajes principales -->
+  <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/php-4F5B93?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="PLpgSQL" src="https://img.shields.io/badge/PLpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="SCSS" src="https://img.shields.io/badge/scss-cc6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Blade" src="https://img.shields.io/badge/blade-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="Blade" src="https://img.shields.io/badge/blade-E74430?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 <p>
+  <!-- Frameworks y herramientas de tus proyectos -->
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -102,7 +108,6 @@ Puedes personalizarlo como desees.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
 ---
 
 <h3>📚 Me interesa aprender</h3>
