@@ -133,3 +133,6 @@ Markdown
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabyLz&theme=darkhub&margin-w=10&row=1&column=7" alt="github trophies"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabyLz&theme=darkhub&margin-w=10&row=1&column=7" alt="github trophies"/>
+</p>
