@@ -1,18 +1,3 @@
-Copilot said: ¡Por supuesto! Aquí tienes tu README mejorado
-¡Por supuesto! Aquí tienes tu README mejorado y ordenado para que luzca profesional, moderno y limpio.
-Mejoras realizadas:
-
-Elimino texto residual de ejemplo y repeticiones.
-Organizo los títulos y separadores (usa solo los necesarios).
-Centralizo secciones importantes.
-Simplifico el uso de badges y logros para evitar redundancia.
-Añado breves descripciones y estructura consistente.
-Markdown
-<!--
-Este README se muestra en tu perfil de GitHub 😄
-¡Personalízalo como prefieras!
--->
-
 ### ¡Hola! 👋 <h2>Soy GabyLz</h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
