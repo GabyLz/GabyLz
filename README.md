@@ -16,11 +16,6 @@ Puedes personalizarlo como desees.
 - 🎯 Mi meta es aportar valor real a través de software eficiente y práctico.
 
 ---
-
-Copilot said: ¡Por supuesto! Aquí tienes una versión más
-¡Por supuesto! Aquí tienes una versión más estética y llamativa de tus proyectos destacados, usando “project cards” al estilo markdown con algunos estilos básicos e íconos para hacerlo visual y atractivo, sin perder compatibilidad con el README de GitHub.
-
-Markdown
 <h3>🚀 Proyectos Destacados</h3>
 
 <p align="center">
@@ -63,15 +58,6 @@ Markdown
 <br>
 <sub>Proyectos de visión computacional y procesamiento de imágenes con Python.</sub>
 
-<hr>
-
-<a href="https://github.com/GabyLz/Sistemas_de_Nota" target="_blank">
-  <img src="https://img.shields.io/badge/Sistemas%20de%20Nota-Educación-lightgrey?style=for-the-badge&logo=php&logoColor=white" alt="Sistemas de Nota"/>
-</a>
-<br>
-<sub>Gestión de calificaciones escolares.</sub>
-
-<hr>
 
 <a href="https://github.com/marck-h-cmd/Eduka" target="_blank">
   <img src="https://img.shields.io/badge/Eduka%20(colaboración)-Plataforma%20Educativa-9cf?style=for-the-badge&logo=laravel&logoColor=white" alt="Eduka"/>
@@ -116,13 +102,6 @@ Markdown
 - 🔒 Ciberseguridad
 - 🤖 Más sobre IA y automatización
 
----
-
-<h3> 🤝🏻 Conecta conmigo </h3>
-<br>
-<p align="center">
-  <a href="mailto:glzanabriayr@unitru.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-glzanabriayr@unitru.edu.pe-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ---
 
