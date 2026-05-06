@@ -18,27 +18,54 @@ Este README se muestra en tu perfil de GitHub 😄
 
 <p align="center">
 
-<a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral">
-  <img src="https://img.shields.io/badge/Egresados%20y%20Ofertas-blue?style=for-the-badge&logo=gradle&logoColor=white" /><br>
-  <b>Sistema de Egresados y Oferta Laboral</b><br>
-  <sub>Vínculo entre egresados, universidad y empresa.</sub>
-</a>
-<br><br>
+<a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral" target="_blank">
+  <img src="https://img.shields.io/badge/Sistema%20de%20Egresados%20y%20Oferta%20Laboral-Universidad%20y%20Empleo-blue?style=for-the-badge&logo=gradle&logoColor=white" alt="Sistema de Egresados y Oferta Laboral"/>
+</a>  
+<br>
+<sub>Plataforma para el vínculo entre egresados, universidades y empresas.</sub>
 
-<a href="https://github.com/GabyLz/Carrito-Compras">
-  <img src="https://img.shields.io/badge/Carrito%20de%20Compras-orange?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-  <b>Carrito de Compras</b><br>
-  <sub>E-commerce full-stack (TypeScript, PLpgSQL).</sub>
-</a>
-<br><br>
+<hr>
 
-<a href="https://github.com/GabyLz/Machine-Learning">
-  <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br>
-  <b>Machine Learning</b><br>
-  <sub>Análisis y predicción con IA.</sub>
+<a href="https://github.com/GabyLz/Carrito-Compras" target="_blank">
+  <img src="https://img.shields.io/badge/Carrito%20de%20Compras-Ecommerce-orange?style=for-the-badge&logo=typescript&logoColor=white" alt="Carrito de Compras"/>
 </a>
+<br>
+<sub>Aplicación de e-commerce full-stack con TypeScript y PLpgSQL.</sub>
+
+<hr>
+
+<a href="https://github.com/GabyLz/Simulador-de-inversiones-y-bonos" target="_blank">
+  <img src="https://img.shields.io/badge/Simulador%20de%20Inversiones%20y%20Bonos-Finanzas-green?style=for-the-badge&logo=python&logoColor=white" alt="Simulador de Inversiones y Bonos"/>
+</a>
+<br>
+<sub>Herramienta educativa de simulación financiera.</sub>
+
+<hr>
+
+<a href="https://github.com/GabyLz/Machine-Learning" target="_blank">
+  <img src="https://img.shields.io/badge/Machine%20Learning-IA-red?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+</a>
+<br>
+<sub>Implementaciones de Machine Learning para análisis de datos y predicción.</sub>
+
+<hr>
+
+<a href="https://github.com/GabyLz/Open_Cv" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20CV-Visión%20Computacional-purple?style=for-the-badge&logo=opencv&logoColor=white" alt="Open CV"/>
+</a>
+<br>
+<sub>Proyectos de visión computacional y procesamiento de imágenes con Python.</sub>
+<br>
+<hr>
+
+<a href="https://github.com/marck-h-cmd/Eduka" target="_blank">
+  <img src="https://img.shields.io/badge/Eduka%20(colaboración)-Plataforma%20Educativa-9cf?style=for-the-badge&logo=laravel&logoColor=white" alt="Eduka"/>
+</a>
+<br>
+<sub>Plataforma web educativa integral.</sub>
 
 </p>
+
 
 ---
 
