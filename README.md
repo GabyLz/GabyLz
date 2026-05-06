@@ -13,43 +13,113 @@ Puedes personalizarlo como desees.
 - 🛠️ Experiencia en proyectos de Machine Learning, visión computacional, sistemas educativos y gestión financiera.
 - 🌱 Siempre aprendiendo nuevas tecnologías.
 - 🤝 Me gusta colaborar y construir soluciones creativas y útiles en equipo.
-- 🎯 Motivado(a) por aportar valor real a través de software eficiente y práctico.
+- 🎯 Mi meta es aportar valor real a través de software eficiente y práctico.
+
+---
 
 <h3>🚀 Proyectos Destacados</h3>
 
-- [Sistema de Egresados y Oferta Laboral](https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral) – Plataforma para el vínculo entre egresados, universidades y empresas.
-- [Carrito-Compras](https://github.com/GabyLz/Carrito-Compras) – Aplicación de e-commerce full-stack.
-- [Simulador de inversiones y bonos](https://github.com/GabyLz/Simulador-de-inversiones-y-bonos) – Herramienta educativa financiera.
-- [Machine-Learning](https://github.com/GabyLz/Machine-Learning) – Proyectos de análisis y predicción con aprendizaje automático.
-- [Open_Cv](https://github.com/GabyLz/Open_Cv) – Visión computacional y procesamiento de imágenes.
-- [Sistemas_de_Nota](https://github.com/GabyLz/Sistemas_de_Nota) – Gestión de calificaciones escolares.
-- [Eduka (colab.)](https://github.com/marck-h-cmd/Eduka) – Plataforma web educativa integral.
+<table style="width:100%">
+  <tr>
+    <td>
+      <b><a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral">Sistema de Egresados y Oferta Laboral</a></b><br>
+      Plataforma para el vínculo entre egresados, universidades y empresas.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/GabyLz/Carrito-Compras">Carrito-Compras</a></b><br>
+      Aplicación de e-commerce full-stack con TypeScript y PLpgSQL.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/GabyLz/Simulador-de-inversiones-y-bonos">Simulador de inversiones y bonos</a></b><br>
+      Herramienta educativa de simulación financiera.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/GabyLz/Machine-Learning">Machine-Learning</a></b><br>
+      Implementaciones de Machine Learning para análisis de datos y predicción.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/GabyLz/Open_Cv">Open_Cv</a></b><br>
+      Proyectos de visión computacional y procesamiento de imágenes con Python.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/GabyLz/Sistemas_de_Nota">Sistemas_de_Nota</a></b><br>
+      Gestión de calificaciones escolares.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/marck-h-cmd/Eduka">Eduka (colaboración)</a></b><br>
+      Plataforma web educativa integral.
+    </td>
+  </tr>
+</table>
+
+---
 
 <h3>🛠 Stack tecnológico</h3>
 
-- 💻 Python | TypeScript | JavaScript | PHP | PLpgSQL | HTML | CSS | SCSS | Blade
-- 🔧 OpenCV | pandas | scikit-learn | FastAPI | Laravel | PostgreSQL | MySQL
+<p>
+  <a href="https://www.scala-lang.org/">
+    <img alt="Scala" src="https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala" />
+  </a>
+  <a href="https://www.java.com/">
+    <img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java" />
+  </a>
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img alt="SQL" src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql" />
+  </a>
+</p>
 
-<h3>📚 Quiero aprender</h3>
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-4F5B93?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="SCSS" src="https://img.shields.io/badge/scss-cc6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="Blade" src="https://img.shields.io/badge/blade-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+<p>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+<h3>📚 Me interesa aprender</h3>
 
 - ☁️ Cloud (AWS, GCP)
-- 🧩 Ciberseguridad
+- 🔒 Ciberseguridad
 - 🤖 Más sobre IA y automatización
 
-<hr>
+---
 
 <h3> 🤝🏻 Conecta conmigo </h3>
 <br>
 <p align="center">
-<!--
-<a href="https://www.linkedin.com/in/tu-linkedin-aqui"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-GabyLz-blue?style=flat-square&logo=linkedin"></a>
--->  
-<a href="mailto:glzanabriayr@unitru.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-tu.correo@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
+  <a href="mailto:glzanabriayr@unitru.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-glzanabriayr@unitru.edu.pe-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<hr>
-<br/>
+---
 
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
 
@@ -64,5 +134,3 @@ Puedes personalizarlo como desees.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=GabyLz.GabyLz) 
-
-<hr>
