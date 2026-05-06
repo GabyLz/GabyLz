@@ -19,34 +19,34 @@ Este README se muestra en tu perfil de GitHub 😄
 <p align="center">
 
   <a href="https://github.com/GabyLz/Sistema-de-Egresados-y-Oferta-Laboral">
-    <img src="https://img.shields.io/badge/Egresados%20y%20Ofertas%20Laborales-blue?style=for-the-badge&logo=gradle&logoColor=white" />
+    <img src="https://img.shields.io/badge/👨‍🎓%20Egresados%20y%20Ofertas-Universidad%20y%20Empleo-blue?style=for-the-badge&logo=gradle&logoColor=white" />
+    <br>
+    <sub>Plataforma para conectar egresados, universidades y empresas.</sub>
   </a>
-  <br>
-  <sub>Vínculo entre egresados, universidades y empresas.</sub>
-
+  
   <br><br>
 
   <a href="https://github.com/GabyLz/Carrito-Compras">
-    <img src="https://img.shields.io/badge/Carrito%20de%20Compras-orange?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/🛒%20Carrito%20de%20Compras-Ecommerce-orange?style=for-the-badge&logo=typescript&logoColor=white" />
+    <br>
+    <sub>Aplicación de e-commerce full-stack (TypeScript, PLpgSQL).</sub>
   </a>
-  <br>
-  <sub>App de e-commerce full-stack.</sub>
-
+  
   <br><br>
 
   <a href="https://github.com/GabyLz/Machine-Learning">
-    <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-IA-red?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <br>
+    <sub>Modelos de análisis y predicción basados en IA.</sub>
   </a>
-  <br>
-  <sub>Análisis y predicción con IA.</sub>
-
+  
   <br><br>
 
   <a href="https://github.com/GabyLz/Open_Cv">
-    <img src="https://img.shields.io/badge/OpenCV-purple?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/🖼️%20OpenCV-Visión%20Computacional-purple?style=for-the-badge&logo=opencv&logoColor=white" />
+    <br>
+    <sub>Procesamiento de imágenes y visión computacional en Python.</sub>
   </a>
-  <br>
-  <sub>Proyectos de visión computacional.</sub>
 
 </p>
 ---
