@@ -57,7 +57,7 @@ Puedes personalizarlo como desees.
 </a>
 <br>
 <sub>Proyectos de visión computacional y procesamiento de imágenes con Python.</sub>
-
+<br>
 
 <a href="https://github.com/marck-h-cmd/Eduka" target="_blank">
   <img src="https://img.shields.io/badge/Eduka%20(colaboración)-Plataforma%20Educativa-9cf?style=for-the-badge&logo=laravel&logoColor=white" alt="Eduka"/>
