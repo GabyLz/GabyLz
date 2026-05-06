@@ -128,14 +128,15 @@ Markdown
 
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyLz&show_icons=true&theme=gotham)
-<br>
-<table>
+<h3>📊 Estadísticas de GitHub</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabyLz&layout=compact&theme=gotham&langs_count=8&hide_title=true" alt="Top Langs" height="175"/>
+</p>
+
+<table align="center">
 <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=GabyLz&show_icons=true&theme=gotham" /></td>
-  <td><img src="http://github-readme-streak-stats.herokuapp.com?user=GabyLz&theme=gotham"/></td>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=GabyLz&show_icons=true&theme=gotham" alt="github stats"/></td>
+  <td><img src="http://github-readme-streak-stats.herokuapp.com?user=GabyLz&theme=gotham" alt="streak stats"/></td>
 </tr>
 </table>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=GabyLz.GabyLz) 
